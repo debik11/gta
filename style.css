@@ -1,0 +1,29 @@
+.div{
+	background-image: url('https://upload.wikimedia.org/wikipedia/ru/thumb/c/c8/GTAV_Official_Cover_Art.jpg/274px-GTAV_Official_Cover_Art.jpg');
+	background-position:center;
+	background-size: cover;
+	width: 450px;	
+	height: 550px;
+	float: left;
+	border: 2px solid black;
+}
+button{
+	width: 100px;
+	height: 50px;
+	background-color: orange;
+	color: white;
+}
+.div-blok1{
+	margin: auto;
+	color:black;
+	font-size: 27px;
+}
+.bot{
+	
+}
+.block{
+	float: left;
+	width: 350px;
+	height: 600px;
+	margin-left: 2vw;
+}
